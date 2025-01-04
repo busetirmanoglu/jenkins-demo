@@ -1,1 +1,1 @@
-print("buse merhaba!")
+print("burcu merhaba!")
